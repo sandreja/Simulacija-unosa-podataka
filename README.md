@@ -2,7 +2,7 @@ Simulacija Unosa Podataka / University Data Entry Simulation
 
 EN
 
-Our first larger Java project, simulating a university data entry system via the console. The program allows the user to add students, professors, and assistants, store them in separate lists, and display them individually or all at once through a simple command-based menu.
+Our first larger Java project. We simulated a university data entry scenario through plain Java code - entering and storing data about students, professors, and assistants in separate lists, and printing them based on different commands entered in the console.
 
 What I practiced:
 
