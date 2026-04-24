@@ -1,5 +1,3 @@
-Simulacija Unosa Podataka / University Data Entry Simulation
-
 EN
 
 Our first larger Java project. We simulated a university data entry scenario through plain Java code - entering and storing data about students, professors, and assistants in separate lists, and printing them based on different commands entered in the console.
